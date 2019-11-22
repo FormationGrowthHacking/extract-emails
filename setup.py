@@ -1,4 +1,5 @@
 from setuptools import setup
+#hi, this is my comment
 
 with open('README.rst') as readme:
     r = str(readme.read())
